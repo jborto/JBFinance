@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JBFinance</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="calculatePayments">Calcular Parcelas</string>
+    <string name="calculateInterest">Calcular Juros</string>
+    <string name="title_activity_payments">PaymentsActivity</string>
+    <string name="valueInCash">Valor à vista</string>
+    <string name="numberOfInstalments"></string>
+    <string name="instalmentsNumber">Parcelas</string>
+
+</resources>
